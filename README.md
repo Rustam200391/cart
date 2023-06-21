@@ -1,2 +1,2 @@
 # cart
-<h1>N<ew component
+<h1>N</ew component
