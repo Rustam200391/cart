@@ -1,2 +1,2 @@
 # cart
-New component
+<New component
